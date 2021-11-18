@@ -1,0 +1,2 @@
+String globalAuth = "";
+String globalHeroTag = '';

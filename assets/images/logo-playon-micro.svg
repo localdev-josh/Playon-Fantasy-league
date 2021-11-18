@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="logo-playon-micro" transform="translate(0.187 0.187)">
+    <circle id="Ellipse_298" data-name="Ellipse 298" cx="16" cy="16" r="16" transform="translate(-0.187 -0.187)" fill="#0f1721"/>
+    <g id="logo-playon-color" transform="translate(6.589 9.664)">
+      <path id="Path_14143" data-name="Path 14143" d="M0,12.353V.41H5.277C7.457.41,8.386,2.2,8.386,4.39S7.514,8.339,5.259,8.339H3.022v4.014ZM4.426,2.8h-1.4V5.967h1.4c.706,0,.938-.6.938-1.577s-.231-1.612-.938-1.612" transform="translate(0 -0.232)" fill="#fff"/>
+      <path id="Path_14147" data-name="Path 14147" d="M90.18,12.3c-3.694,0-5.08-1.929-5.08-6.139S86.487,0,90.18,0s5.046,1.946,5.046,6.161S93.857,12.3,90.18,12.3m0-2.568c1.308,0,1.9-.634,1.9-3.571s-.589-3.593-1.9-3.593-1.9.669-1.9,3.593.567,3.571,1.9,3.571" transform="translate(-75.898)" fill="#00c853"/>
+    </g>
+  </g>
+</svg>

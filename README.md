@@ -7,6 +7,7 @@
 * CRUD operations in the local database
 * Interesting micro-animations ✨
 
+
 Star⭐ the repo if you like what you see😉
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/joshcrevtor.svg?style=social)](https://twitter.com/joshcrevtor)

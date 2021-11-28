@@ -1,7 +1,7 @@
 import 'package:achievement_view/achievement_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
-import 'package:playon/components/splash_tap.dart';
+import 'package:playon/animations/splash_tap.dart';
 import 'package:playon/data/view_models/team_view_model.dart';
 import 'package:playon/screens/dashboard_navigations/widgets/team_card.dart';
 import 'package:playon/utilities/app_colors.dart';

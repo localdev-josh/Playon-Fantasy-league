@@ -1,7 +1,7 @@
 import 'package:bordered_text/bordered_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:playon/components/glitch_effect.dart';
+import 'package:playon/animations/glitch_effect.dart';
 import 'package:playon/data/view_models/dashboard_view_model.dart';
 import 'package:playon/utilities/app_colors.dart';
 import 'package:playon/utilities/app_strings.dart';

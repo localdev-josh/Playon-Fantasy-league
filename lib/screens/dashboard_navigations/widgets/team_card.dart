@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:playon/animations/loading.dart';
 import 'package:playon/components/divider.dart';
-import 'package:playon/components/splash_tap.dart';
+import 'package:playon/animations/splash_tap.dart';
 import 'package:playon/data/models/player_model/player.dart';
 import 'package:playon/data/models/teams_model/teams.dart';
 import 'package:playon/data/view_models/dashboard_view_model.dart';
@@ -228,9 +228,7 @@ class _TeamCardState extends State<TeamCard> with AfterLayoutMixin<TeamCard> {
                   bottom: 44,
                   right: 10,
                   child: Container(
-                    // height: 200,
                     width: 230,
-                    // padding: EdgeInsets.all(15),
                     decoration: BoxDecoration(
                       color: Colors.white,
                       borderRadius: BorderRadius.circular(10),

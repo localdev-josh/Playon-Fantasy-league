@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:playon/components/glitch_effect.dart';
+import 'package:playon/animations/glitch_effect.dart';
 import 'package:playon/data/services/dashboard_service.dart';
 import '../../locator.dart';
 

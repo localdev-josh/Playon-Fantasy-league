@@ -1,14 +1,8 @@
-import 'dart:async';
-
-import 'package:after_layout/after_layout.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:playon/components/glitch_effect.dart';
 import 'package:playon/data/view_models/dashboard_view_model.dart';
-import 'package:playon/screens/dashboard_controller/widgets/linear_progress_indicator.dart' as ProgressIndicator;
 import 'package:playon/utilities/app_colors.dart';
 import 'package:playon/utilities/app_strings.dart';
-import 'package:provider/provider.dart';
 
 class LoadingWIdget extends StatefulWidget {
   const LoadingWIdget({
